@@ -1,0 +1,50 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: rgba(243, 180, 8, 0.89);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(255, 154, 71);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 800;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.dream img{
+    
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    height: 80%;
+}
+#full-stuck{
+    border-left: 7px solid;
+    border-color: tomato;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-color: rgb(0, 174, 255);
+}
